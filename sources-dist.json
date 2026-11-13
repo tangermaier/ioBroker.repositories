@@ -3220,6 +3220,11 @@
     "icon": "https://raw.githubusercontent.com/berto-1974/ioBroker.solakon-one/main/admin/solakon.png",
     "type": "energy"
   },
+  "solarcockpit": {
+    "meta": "https://raw.githubusercontent.com/tangermaier/ioBroker.solarcockpit/main/io-package.json",
+    "icon": "https://raw.githubusercontent.com/tangermaier/ioBroker.solarcockpit/main/admin/solarcockpit.png",
+    "type": "energy"
+  },
   "solaredge": {
     "meta": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.solaredge/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.solaredge/master/admin/solaredge.png",
